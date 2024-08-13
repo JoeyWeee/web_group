@@ -1,0 +1,15 @@
+{
+  "assets/images/group-logo.png": {
+    "file": "assets/group-logo-CbdFMglu.png",
+    "src": "assets/images/group-logo.png"
+  },
+  "index.html": {
+    "file": "assets/index-Ds-9KISo.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "assets": [
+      "assets/group-logo-CbdFMglu.png"
+    ]
+  }
+}
