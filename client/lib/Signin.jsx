@@ -165,12 +165,6 @@ export default function Signin() {
             Submit
           </Button>
         </CardActions>
-        <div className={classes.iconContainer}>
-          <img src="./../assets/icons/github.png" alt="Icon 1" className={classes.icon} />
-          <img src="./../assets/icons/instagram.png" alt="Icon 2" className={classes.icon} />
-          <img src="./../assets/icons/whatsapp.png" alt="Icon 3" className={classes.icon} />
-          <img src="./../assets/icons/youtube.png" alt="Icon 4" className={classes.icon} />
-        </div>
       </Card>
     </div>
   );
