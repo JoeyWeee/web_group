@@ -97,7 +97,7 @@ export default function MyProducts() {
     });
 
     return function cleanup() {
-      abortController.abort();
+     // abortController.abort();
     };
   }, [jwt]);
 
